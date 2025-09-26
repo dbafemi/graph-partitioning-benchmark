@@ -3,7 +3,7 @@
 This repository contains configuration files, synthetic dataset generators, and scripts used in the study:
 
 **Comparative Analysis of Graph Partitioning Strategies for Enhancing Scalability and Performance in Distributed Graph Databases**  
-Submitted to *Cluster Computing: The Journal of Networks, Software Tools and Applications* (Springer Nature).
+Submitted to *Cluster Computing* (Springer Nature).
 
 ---
 
