@@ -55,7 +55,7 @@ If you use this repository, please cite our paper:
 
 @article{oloruntoba2025graphpartitioning,
   title={Comparative Analysis of Graph Partitioning Strategies for Enhancing Scalability and Performance in Distributed Graph Databases},
-  author={Omolayo, Olasehinde and Oloruntoba, Oluwafemi and Adepoju, Sheriff and Audu, Khadijah},
+  author={Omolayo, Olasehinde and Oloruntoba, Oluwafemi and Adepoju, Sheriff and Audu, Khadijah and Oluwabukola Racheal Tiamiyu and Deborah Olamide Oyeyemi and Usman Ayobami},
   journal={Cluster Computing},
   year={2025}
 }
@@ -69,7 +69,14 @@ Oluwafemi Oloruntoba — Lamar University (Corresponding Author)
 
 Sheriff Adepoju — Prairie View A&M University
 
-Khadijah Audu — University of Arkansas
+Khadijah Audu — University of Arkansas 
+
+Oluwabukola Racheal Tiamiyu -Georgia State University
+
+Deborah Olamide Oyeyemi - University of Dalaware
+
+Usman Ayobami - Western Michigan
+
 
 **Repository Link**
 
